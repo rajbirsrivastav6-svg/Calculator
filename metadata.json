@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A clean, tactile everyday calculator with instant live preview and session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

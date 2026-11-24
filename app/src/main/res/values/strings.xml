@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="cd_history">Calculation history</string>
+    <string name="cd_copy_result">Copy result</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_clear">All clear</string>
+    <string name="cd_parentheses">Parentheses</string>
+    <string name="cd_percent">Percent</string>
+    <string name="cd_divide">Divide</string>
+    <string name="cd_multiply">Multiply</string>
+    <string name="cd_subtract">Subtract</string>
+    <string name="cd_add">Add</string>
+    <string name="cd_equals">Equals</string>
+    <string name="cd_decimal">Decimal point</string>
+    <string name="cd_close_history">Close history</string>
+    <string name="cd_clear_history">Clear history</string>
+    <string name="history_title">History</string>
+    <string name="history_empty_title">No calculations yet</string>
+    <string name="history_empty_subtitle">Your recent calculations will appear here so you can tap to reuse them.</string>
+    <string name="history_clear_all">Clear</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="error_divide_by_zero">Can\'t divide by 0</string>
+    <string name="error_invalid_expression">Format error</string>
+    <string name="error_overflow">Number too large</string>
+    <string name="tap_to_reuse">Tap an entry to reuse</string>
+</resources>
